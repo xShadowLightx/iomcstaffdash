@@ -2,6 +2,7 @@
 <hr>
 <br>
 <p> LEAD DEVELOPER/OWNER: https://github.com/xShadowLightx </p>
+<p>View the IronSideMC Project Here: https://ironsidemc.guildtag.com </p>
 <br>
 <h1 align="center">Staff X Utilities (Custom - iomcSXU)</h1>
 <p>
