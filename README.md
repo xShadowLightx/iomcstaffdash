@@ -1,5 +1,4 @@
 # IronSideMC Staff Dashboard (iomcstaffdash)
-<hr>
 <p> LEAD DEVELOPER/OWNER: https://github.com/xShadowLightx </p>
 <p>View the IronSideMC Project Here: https://ironsidemc.guildtag.com </p>
 <br>
