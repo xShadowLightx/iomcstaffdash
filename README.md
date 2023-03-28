@@ -15,3 +15,7 @@
 </h2>
 
 <br>
+
+<p>
+    Staff X Utilities (SXU) is a minecraft total staff utility suite for server owners to gain and give control and access to certain features for a minecraft server. SXU is meant to be run as a stand alone plugin/service in tanem with the minecraft server, and gives server staff access to features like player stats (total players, playtime, online players, player levels {plans to include PAPI suport}) access to player applications, a staff dashboard to view messages, player tickets, and post updates. there are plans to also include a discord interation.
+</p>
