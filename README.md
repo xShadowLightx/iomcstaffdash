@@ -23,3 +23,12 @@
 <p>
     SXU enables Server owners to gain additionaly control over thier server and deleagte some of those responablities over to their respective staff.
 </p>
+
+
+<h2> Expected Features: </h2>
+<ul>
+    <li> Staff Dashboard</li>
+    <p> a place for server staff to view messages, bans, player support tickets, player applications, manage other players, etc.</p>
+    <li> Player Dashboard</li>
+    <p> a place for server members to view thier stats, message other players (offline & online) or view current support tickets, etc.</p>
+</ul>
