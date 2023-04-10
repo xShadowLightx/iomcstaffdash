@@ -31,4 +31,6 @@
     <p> a place for server staff to view messages, bans, player support tickets, player applications, manage other players, etc.</p>
     <li> Player Dashboard</li>
     <p> a place for server members to view thier stats, message other players (offline & online) or view current support tickets, etc.</p>
+    <li> Admin Portal</li>
+    <p> seperate from the staff dashboard, the admin portal is a place to remotely manage the server itself including but not limited to: permissions, players, motd, properties, server stop/start etc.</p>
 </ul>
