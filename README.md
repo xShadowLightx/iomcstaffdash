@@ -34,3 +34,8 @@
     <li> Admin Portal</li>
     <p> seperate from the staff dashboard, the admin portal is a place to remotely manage the server itself including but not limited to: permissions, players, motd, properties, server stop/start etc. </p>
 </ul>
+
+<h2> RESOURCES</h2>
+
+<a href="https://ironsidemc.guildtag.com" target="_blank">IronSideMC MineCraft Server</a>
+<p> .</p>
